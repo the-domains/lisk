@@ -1,0 +1,14 @@
+layout_spectrum: 0.38408720795996487
+typography_spectrum: 0.032232323894277215
+color:
+  brandStrength: 0.15058917948044837
+  lightness: 0.12834296375513077
+  saturation: 0.041837717639282346
+  rhythmicContrast: 0.12818008079193532
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Lisk
