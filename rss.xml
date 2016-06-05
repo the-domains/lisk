@@ -4,7 +4,7 @@
         <description><![CDATA[Forge On]]></description>
         <link>https://thegrid.ai/lisktrader/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 18:57:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 18:58:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lisktrader/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Transmission 55 - Max Kordek , Lisk]]></title>
@@ -42,6 +42,13 @@
             <pubDate>Sun, 05 Jun 2016 17:10:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lisk Price Chart (LSK/USD) | CoinGecko]]></title>
+            <description><![CDATA[<article><h1>Lisk Price Chart (LSK/USD) | CoinGecko</h1><p>Lisk cryptocurrency historical LSK/USD price chart</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c63ea60cea46316bbb8dd52f0ef0585da002a29a.png"></article>]]></description>
+            <link>https://www.coingecko.com/en/price_charts/lisk/usd</link>
+            <guid isPermaLink="false">5d22f677-c937-43c6-8f45-1985cc86ffeb</guid>
+            <pubDate>Sun, 05 Jun 2016 18:57:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/454125d1-912e-4696-8d91-c6e0814337b4.jpg">]]></description>
             <link>https://thegrid.ai/lisktrader/fa952ea2-c574-4953-9c24-ab7c054a1e73/index.html</link>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/lisktrader/937c33a1-82e9-4014-b6cc-2500c2ce7d2f/index.html</link>
             <guid isPermaLink="false">937c33a1-82e9-4014-b6cc-2500c2ce7d2f</guid>
             <pubDate>Sun, 05 Jun 2016 18:40:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5ffa570-e308-454a-8b0b-b1f065e69068.jpg">]]></description>
-            <link>https://thegrid.ai/lisktrader/9d81b403-4e10-4ecc-9f00-b94356740fbf/index.html</link>
-            <guid isPermaLink="false">9d81b403-4e10-4ecc-9f00-b94356740fbf</guid>
-            <pubDate>Sun, 05 Jun 2016 18:40:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
