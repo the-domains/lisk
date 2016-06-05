@@ -64,10 +64,10 @@ app_links:
     package: '544007664'
 isBasedOnUrl: 'https://www.youtube.com/watch?v=qOMT6-VgjhM&feature=youtu.be'
 title: 'Transmission 55 - Max Kordek , Lisk'
-datePublished: '2016-06-05T18:47:11.392Z'
-dateModified: '2016-06-05T18:47:11.060Z'
+datePublished: '2016-06-05T18:47:16.694Z'
+dateModified: '2016-06-05T18:47:16.397Z'
 sourcePath: _posts/2016-06-05-transmission-55-max-kordek-lisk.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
