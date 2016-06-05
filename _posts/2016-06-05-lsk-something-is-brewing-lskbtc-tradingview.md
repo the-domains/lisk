@@ -15,10 +15,10 @@ inLanguage: eu
 app_links: []
 isBasedOnUrl: 'https://www.tradingview.com/chart/LSKBTC/s9gnsLCe-LSK-Something-is-Brewing/'
 title: 'LSK: Something is Brewing - LSKBTC TradingView'
-datePublished: '2016-06-05T17:10:42.630Z'
-dateModified: '2016-06-05T16:51:34.288Z'
-starred: false
+datePublished: '2016-06-05T17:13:55.052Z'
+dateModified: '2016-06-05T17:13:54.763Z'
 sourcePath: _posts/2016-06-05-lsk-something-is-brewing-lskbtc-tradingview.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
