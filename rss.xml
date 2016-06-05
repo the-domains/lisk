@@ -4,7 +4,7 @@
         <description><![CDATA[Forge On]]></description>
         <link>https://thegrid.ai/lisktrader/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 18:32:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 18:36:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lisktrader/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Transmission 55 - Max Kordek , Lisk]]></title>
@@ -35,6 +35,20 @@
             <pubDate>Sun, 05 Jun 2016 17:10:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bittrex.com -]]></title>
+            <description><![CDATA[<article><h1>Bittrex.com -</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd27700c763b80acb781e2e82ccccd2db7c65cf3.png"></article>]]></description>
+            <link>https://bittrex.com/Market/Index?MarketName=BTC-LSK</link>
+            <guid isPermaLink="false">72654155-2fc1-47f5-919b-93c20d02e4ee</guid>
+            <pubDate>Sun, 05 Jun 2016 18:36:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poloniex - Bitcoin/Cryptocurrency Exchange]]></title>
+            <description><![CDATA[<article><h1>Poloniex - Bitcoin/Cryptocurrency Exchange</h1><p>We've detected that you're using a small display. Want to switch to the mobile version of the site?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/720778ea0e58d54270378946712c9892e19472c7.png"></article>]]></description>
+            <link>https://poloniex.com/exchange#btc_lsk</link>
+            <guid isPermaLink="false">39b94ea1-7091-4027-b68d-67f6b1da8a7e</guid>
+            <pubDate>Sun, 05 Jun 2016 18:35:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lisk For Investors #9 - What Happened To Lisk On Launch Day? - By Tai Zen]]></title>
             <description><![CDATA[<article><h1>Lisk For Investors #9 - What Happened To Lisk On Launch Day? - By Tai Zen</h1><p>Uploaded by Cryptocurrency Market on 2016-05-25.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b344050ba1c7a44c3a0935558549aa61f914204f.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=-Im02dmvoqI</link>
@@ -54,20 +68,6 @@
             <link>https://blog.lisk.io/blueyard-in-retrospect-lisk-founders-first-meeting-32ef9a023e2#.z3rp1atk7</link>
             <guid isPermaLink="false">37fe456c-2462-4432-a68d-09a6e63e8626</guid>
             <pubDate>Sun, 05 Jun 2016 18:21:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lisk - Blockchain Explorer]]></title>
-            <description><![CDATA[<article><h1>Lisk - Blockchain Explorer</h1><p>Lisk Blockchain Explorer</p></article>]]></description>
-            <link>https://explorer.lisk.io/</link>
-            <guid isPermaLink="false">98a942e7-0fd9-45b6-8dd2-e313ef025e0a</guid>
-            <pubDate>Sun, 05 Jun 2016 17:12:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lisk Market Report: LSKBTC Up 17.32% on the Day]]></title>
-            <description><![CDATA[<article><h1>Lisk Market Report: LSKBTC Up 17.32% on the Day</h1><p>Lisk is up 17.32% on the day and down -1.20% on the week. This is the tenth day of trading which commenced on May 25 2016. LSKBTC last price was 0.00072000 with a 24hr high of 0.00073416, a 24hr low of 0.00060710, in a weekly sideways trend.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41294ba60200aa20e98e1aafcac51c642aac50d9.jpg"></article>]]></description>
-            <link>http://allcoinsnews.com/2016/06/03/lisk-market-report-lskbtc-up-17-32-on-the-day/</link>
-            <guid isPermaLink="false">a834075d-0efa-4fca-bcbe-96f16b2aba5c</guid>
-            <pubDate>Sun, 05 Jun 2016 17:10:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
