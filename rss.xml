@@ -4,7 +4,7 @@
         <description><![CDATA[Forge On]]></description>
         <link>https://thegrid.ai/lisktrader/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 18:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 18:23:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lisktrader/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[LSK: Something is Brewing - LSKBTC TradingView]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.global-blockchain-summit.com/beijing/en/</link>
             <guid isPermaLink="false">dc2f4534-6d9d-4a50-8840-b6ecbe238491</guid>
             <pubDate>Sun, 05 Jun 2016 17:10:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lisk For Investors #9 - What Happened To Lisk On Launch Day? - By Tai Zen]]></title>
+            <description><![CDATA[<article><h1>Lisk For Investors #9 - What Happened To Lisk On Launch Day? - By Tai Zen</h1><p>Uploaded by Cryptocurrency Market on 2016-05-25.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b344050ba1c7a44c3a0935558549aa61f914204f.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=-Im02dmvoqI</link>
+            <guid isPermaLink="false">aad473d7-f603-4339-ae69-926573bae30d</guid>
+            <pubDate>Sun, 05 Jun 2016 18:23:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lisk and the Sell off Buy Back]]></title>
@@ -60,13 +67,6 @@
             <description><![CDATA[<article><h1>Lisk Becomes Second Most Popular Cryptocurrency Traded Against Bitcoin</h1><p>Looking at the overall cryptocurrency landscape, it is becoming clear Lisk is gaining a lot of momentum in the Bitcoin trading markets. So much even that this new currency has claimed the second spot in the overall rankings. However, The DAO and MaidSafe are on its heels.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f6336a0be0ec5720715af4b4209ee6400f6c95f.jpg"></article>]]></description>
             <link>http://themerkle.com/lisk-becomes-second-most-popular-cryptocurrency-traded-against-bitcoin/</link>
             <guid isPermaLink="false">6172d739-06e2-4c31-b29a-ce4615a7f5e0</guid>
-            <pubDate>Sun, 05 Jun 2016 17:10:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lisk to Move Developers from Blockchain to Sidechain]]></title>
-            <description><![CDATA[<article><h1>Lisk to Move Developers from Blockchain to Sidechain</h1><p>Lisk plans to launch a modular cryptocurrency which it says would satisfy the growing interest to use the blockchain as a decentralized database for different use-cases outside of FinTech May 24.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29bd497b4799b0e3a0ae0802f62a7189299b8232.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/lisk-to-move-developers-from-blockchain-to-sidechain</link>
-            <guid isPermaLink="false">c8f49c17-8f81-4e2d-bb24-5b0d5a492f6f</guid>
             <pubDate>Sun, 05 Jun 2016 17:10:42 GMT</pubDate>
         </item>
     </channel>
