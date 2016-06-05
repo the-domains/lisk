@@ -29,8 +29,8 @@ isBasedOnUrl: 'https://forum.lisk.io/viewtopic.php?f=6&t=209&p=1633#p1633'
 title: >-
   Re: daoist 道 [SEEDCHAIN BaaS] SMART_FARM_SIDECHAIN - June 4 Update - Lisk
   Forum
-datePublished: '2016-06-05T17:12:43.932Z'
-dateModified: '2016-06-05T17:12:32.283Z'
+datePublished: '2016-06-05T17:13:41.026Z'
+dateModified: '2016-06-05T17:12:35.065Z'
 starred: false
 sourcePath: _posts/2016-06-05-re-daoist-seedchain-baas-smart_farm_sidechain-june-4.md
 inFeed: true
