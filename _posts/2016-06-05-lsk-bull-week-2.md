@@ -26,10 +26,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.tradingview.com/chart/LSKBTC/Oa7rgHzc-LSK-BULL-WEEK-2/'
 title: 'LSK BULL: WEEK 2'
-datePublished: '2016-06-05T17:10:42.631Z'
-dateModified: '2016-06-05T06:44:53.497Z'
-starred: false
+datePublished: '2016-06-05T18:47:02.036Z'
+dateModified: '2016-06-05T18:47:01.700Z'
 sourcePath: _posts/2016-06-05-lsk-bull-week-2.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
