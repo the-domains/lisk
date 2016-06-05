@@ -57,13 +57,6 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4706e589-1738-4cbc-9e4b-bb25eb38f9f5.jpg">]]></description>
-            <link>https://thegrid.ai/lisktrader/509519b3-191a-4ef0-960c-fe86975124e1/index.html</link>
-            <guid isPermaLink="false">509519b3-191a-4ef0-960c-fe86975124e1</guid>
-            <pubDate>Sun, 05 Jun 2016 18:40:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3d722e4-2a08-4115-bc48-3cb99976a7c5.gif">]]></description>
             <link>https://thegrid.ai/lisktrader/53a318c6-6450-422f-840c-7878cdf9c99a/index.html</link>
             <guid isPermaLink="false">53a318c6-6450-422f-840c-7878cdf9c99a</guid>
@@ -75,6 +68,13 @@
             <link>https://bittrex.com/Market/Index?MarketName=BTC-LSK</link>
             <guid isPermaLink="false">72654155-2fc1-47f5-919b-93c20d02e4ee</guid>
             <pubDate>Sun, 05 Jun 2016 18:36:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poloniex - Bitcoin/Cryptocurrency Exchange]]></title>
+            <description><![CDATA[<article><h1>Poloniex - Bitcoin/Cryptocurrency Exchange</h1><p>We've detected that you're using a small display. Want to switch to the mobile version of the site?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/720778ea0e58d54270378946712c9892e19472c7.png"></article>]]></description>
+            <link>https://poloniex.com/exchange#btc_lsk</link>
+            <guid isPermaLink="false">39b94ea1-7091-4027-b68d-67f6b1da8a7e</guid>
+            <pubDate>Sun, 05 Jun 2016 18:35:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
