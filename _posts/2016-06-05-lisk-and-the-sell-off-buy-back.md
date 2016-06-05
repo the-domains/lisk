@@ -14,10 +14,10 @@ description: Uploaded by Chase ThatCoin on 2016-05-25.
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=7X5R02vv-o4'
 title: Lisk and the Sell off Buy Back
-datePublished: '2016-06-05T18:23:37.106Z'
-dateModified: '2016-06-05T18:23:29.974Z'
-starred: false
+datePublished: '2016-06-05T18:46:53.661Z'
+dateModified: '2016-06-05T18:46:53.437Z'
 sourcePath: _posts/2016-06-05-lisk-and-the-sell-off-buy-back.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
