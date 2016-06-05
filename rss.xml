@@ -4,7 +4,7 @@
         <description><![CDATA[Forge On]]></description>
         <link>https://thegrid.ai/lisktrader/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 18:41:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 18:41:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lisktrader/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Transmission 55 - Max Kordek , Lisk]]></title>
@@ -43,10 +43,31 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d12b4818-d9d7-4935-b48b-4aa855471d76.jpg">]]></description>
+            <link>https://thegrid.ai/lisktrader/937c33a1-82e9-4014-b6cc-2500c2ce7d2f/index.html</link>
+            <guid isPermaLink="false">937c33a1-82e9-4014-b6cc-2500c2ce7d2f</guid>
+            <pubDate>Sun, 05 Jun 2016 18:40:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5ffa570-e308-454a-8b0b-b1f065e69068.jpg">]]></description>
             <link>https://thegrid.ai/lisktrader/9d81b403-4e10-4ecc-9f00-b94356740fbf/index.html</link>
             <guid isPermaLink="false">9d81b403-4e10-4ecc-9f00-b94356740fbf</guid>
             <pubDate>Sun, 05 Jun 2016 18:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4706e589-1738-4cbc-9e4b-bb25eb38f9f5.jpg">]]></description>
+            <link>https://thegrid.ai/lisktrader/509519b3-191a-4ef0-960c-fe86975124e1/index.html</link>
+            <guid isPermaLink="false">509519b3-191a-4ef0-960c-fe86975124e1</guid>
+            <pubDate>Sun, 05 Jun 2016 18:40:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3d722e4-2a08-4115-bc48-3cb99976a7c5.gif">]]></description>
+            <link>https://thegrid.ai/lisktrader/53a318c6-6450-422f-840c-7878cdf9c99a/index.html</link>
+            <guid isPermaLink="false">53a318c6-6450-422f-840c-7878cdf9c99a</guid>
+            <pubDate>Sun, 05 Jun 2016 18:40:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bittrex.com -]]></title>
@@ -54,27 +75,6 @@
             <link>https://bittrex.com/Market/Index?MarketName=BTC-LSK</link>
             <guid isPermaLink="false">72654155-2fc1-47f5-919b-93c20d02e4ee</guid>
             <pubDate>Sun, 05 Jun 2016 18:36:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Poloniex - Bitcoin/Cryptocurrency Exchange]]></title>
-            <description><![CDATA[<article><h1>Poloniex - Bitcoin/Cryptocurrency Exchange</h1><p>We've detected that you're using a small display. Want to switch to the mobile version of the site?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/720778ea0e58d54270378946712c9892e19472c7.png"></article>]]></description>
-            <link>https://poloniex.com/exchange#btc_lsk</link>
-            <guid isPermaLink="false">39b94ea1-7091-4027-b68d-67f6b1da8a7e</guid>
-            <pubDate>Sun, 05 Jun 2016 18:35:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lisk For Investors #9 - What Happened To Lisk On Launch Day? - By Tai Zen]]></title>
-            <description><![CDATA[<article><h1>Lisk For Investors #9 - What Happened To Lisk On Launch Day? - By Tai Zen</h1><p>Uploaded by Cryptocurrency Market on 2016-05-25.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b344050ba1c7a44c3a0935558549aa61f914204f.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=-Im02dmvoqI</link>
-            <guid isPermaLink="false">aad473d7-f603-4339-ae69-926573bae30d</guid>
-            <pubDate>Sun, 05 Jun 2016 18:23:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lisk and the Sell off Buy Back]]></title>
-            <description><![CDATA[<article><h1>Lisk and the Sell off Buy Back</h1><p>Uploaded by Chase ThatCoin on 2016-05-25.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a477b631334cd8627bf76c7333e30df035d3f78.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=7X5R02vv-o4</link>
-            <guid isPermaLink="false">6a0bf57f-1b11-4d74-9ba2-3498287d0a58</guid>
-            <pubDate>Sun, 05 Jun 2016 18:23:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
