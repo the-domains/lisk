@@ -14,10 +14,10 @@ inLanguage: it
 app_links: []
 isBasedOnUrl: 'http://www.global-blockchain-summit.com/beijing/en/'
 title: 2016 Global Blockchain Summit
-datePublished: '2016-06-05T17:10:42.641Z'
-dateModified: '2016-06-05T06:44:46.543Z'
-starred: false
+datePublished: '2016-06-05T17:10:59.381Z'
+dateModified: '2016-06-05T17:10:58.732Z'
 sourcePath: _posts/2016-06-05-2016-global-blockchain-summit.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
