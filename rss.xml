@@ -4,7 +4,7 @@
         <description><![CDATA[Forge On]]></description>
         <link>https://thegrid.ai/lisktrader/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 18:35:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 18:41:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lisktrader/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Transmission 55 - Max Kordek , Lisk]]></title>
@@ -35,8 +35,22 @@
             <pubDate>Sun, 05 Jun 2016 17:10:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/56a06e99-6a33-437d-9b1f-05e2964c7cb8.jpg">]]></description>
+            <link>https://thegrid.ai/lisktrader/52cf31ce-a176-4ee5-9024-145cda87e02d/index.html</link>
+            <guid isPermaLink="false">52cf31ce-a176-4ee5-9024-145cda87e02d</guid>
+            <pubDate>Sun, 05 Jun 2016 18:40:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bittrex.com -]]></title>
+            <description><![CDATA[<article><h1>Bittrex.com -</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd27700c763b80acb781e2e82ccccd2db7c65cf3.png"></article>]]></description>
+            <link>https://bittrex.com/Market/Index?MarketName=BTC-LSK</link>
+            <guid isPermaLink="false">72654155-2fc1-47f5-919b-93c20d02e4ee</guid>
+            <pubDate>Sun, 05 Jun 2016 18:36:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Poloniex - Bitcoin/Cryptocurrency Exchange]]></title>
-            <description><![CDATA[<article><h1>Poloniex - Bitcoin/Cryptocurrency Exchange</h1><p>We've detected that you're using a small display. Want to switch to the mobile version of the site?</p><img src="http://poloniex.com/images/poloniex_icon.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Poloniex - Bitcoin/Cryptocurrency Exchange</h1><p>We've detected that you're using a small display. Want to switch to the mobile version of the site?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/720778ea0e58d54270378946712c9892e19472c7.png"></article>]]></description>
             <link>https://poloniex.com/exchange#btc_lsk</link>
             <guid isPermaLink="false">39b94ea1-7091-4027-b68d-67f6b1da8a7e</guid>
             <pubDate>Sun, 05 Jun 2016 18:35:14 GMT</pubDate>
@@ -61,13 +75,6 @@
             <link>https://blog.lisk.io/blueyard-in-retrospect-lisk-founders-first-meeting-32ef9a023e2#.z3rp1atk7</link>
             <guid isPermaLink="false">37fe456c-2462-4432-a68d-09a6e63e8626</guid>
             <pubDate>Sun, 05 Jun 2016 18:21:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lisk - Blockchain Explorer]]></title>
-            <description><![CDATA[<article><h1>Lisk - Blockchain Explorer</h1><p>Lisk Blockchain Explorer</p></article>]]></description>
-            <link>https://explorer.lisk.io/</link>
-            <guid isPermaLink="false">98a942e7-0fd9-45b6-8dd2-e313ef025e0a</guid>
-            <pubDate>Sun, 05 Jun 2016 17:12:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
