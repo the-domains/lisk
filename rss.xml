@@ -4,7 +4,7 @@
         <description><![CDATA[Forge On]]></description>
         <link>https://thegrid.ai/lisktrader/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 18:41:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 18:41:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lisktrader/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Transmission 55 - Max Kordek , Lisk]]></title>
@@ -43,13 +43,6 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d12b4818-d9d7-4935-b48b-4aa855471d76.jpg">]]></description>
-            <link>https://thegrid.ai/lisktrader/937c33a1-82e9-4014-b6cc-2500c2ce7d2f/index.html</link>
-            <guid isPermaLink="false">937c33a1-82e9-4014-b6cc-2500c2ce7d2f</guid>
-            <pubDate>Sun, 05 Jun 2016 18:40:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5ffa570-e308-454a-8b0b-b1f065e69068.jpg">]]></description>
             <link>https://thegrid.ai/lisktrader/9d81b403-4e10-4ecc-9f00-b94356740fbf/index.html</link>
             <guid isPermaLink="false">9d81b403-4e10-4ecc-9f00-b94356740fbf</guid>
@@ -75,6 +68,13 @@
             <link>https://www.youtube.com/watch?v=-Im02dmvoqI</link>
             <guid isPermaLink="false">aad473d7-f603-4339-ae69-926573bae30d</guid>
             <pubDate>Sun, 05 Jun 2016 18:23:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lisk and the Sell off Buy Back]]></title>
+            <description><![CDATA[<article><h1>Lisk and the Sell off Buy Back</h1><p>Uploaded by Chase ThatCoin on 2016-05-25.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a477b631334cd8627bf76c7333e30df035d3f78.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=7X5R02vv-o4</link>
+            <guid isPermaLink="false">6a0bf57f-1b11-4d74-9ba2-3498287d0a58</guid>
+            <pubDate>Sun, 05 Jun 2016 18:23:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
