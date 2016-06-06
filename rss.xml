@@ -4,7 +4,7 @@
         <description><![CDATA[Forge On]]></description>
         <link>https://thegrid.ai/lisktrader/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 00:30:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 06:53:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lisktrader/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Transmission 55 - Max Kordek , Lisk]]></title>
@@ -42,6 +42,13 @@
             <pubDate>Sun, 05 Jun 2016 17:10:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Azure Blockchain as a Service Update #6]]></title>
+            <description><![CDATA[<article><h1>Azure Blockchain as a Service Update #6</h1><p>Yet another busy week in the evolving ecosystem of blockchain technologies. New partners include Augur, Lisk, BitShares, Syscoin and Slock.it.</p><img src="https://acom.azurecomcdn.net/80C57D/cdn/mediahandler/acomblog/media/Default/blog/iStock_000020559159_102215.jpg"></article>]]></description>
+            <link>https://azure.microsoft.com/en-us/blog/azure-blockchain-update-6/</link>
+            <guid isPermaLink="false">d0ddebd6-ff8d-42f1-8c27-8fcf5db4ce46</guid>
+            <pubDate>Mon, 06 Jun 2016 04:22:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article><img src="https://www.tradingview.com/x/uCdotfLk/"></article>]]></description>
             <link>https://www.tradingview.com/x/uCdotfLk/</link>
@@ -68,13 +75,6 @@
             <link>https://www.coingecko.com/en/price_charts/lisk/usd</link>
             <guid isPermaLink="false">5d22f677-c937-43c6-8f45-1985cc86ffeb</guid>
             <pubDate>Sun, 05 Jun 2016 18:57:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lisk and the Sell off Buy Back]]></title>
-            <description><![CDATA[<article><h1>Lisk and the Sell off Buy Back</h1><p>Uploaded by Chase ThatCoin on 2016-05-25.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a477b631334cd8627bf76c7333e30df035d3f78.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=7X5R02vv-o4</link>
-            <guid isPermaLink="false">6a0bf57f-1b11-4d74-9ba2-3498287d0a58</guid>
-            <pubDate>Sun, 05 Jun 2016 18:48:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
