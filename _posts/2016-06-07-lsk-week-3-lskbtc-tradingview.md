@@ -26,10 +26,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.tradingview.com/chart/LSKBTC/9i4VZgCR-LSK-WEEK-3/'
 title: 'LSK: WEEK 3 - LSKBTC TradingView'
-datePublished: '2016-06-07T08:32:03.979Z'
-dateModified: '2016-06-07T08:31:37.837Z'
-starred: false
+datePublished: '2016-06-07T08:32:27.185Z'
+dateModified: '2016-06-07T08:32:26.819Z'
 sourcePath: _posts/2016-06-07-lsk-week-3-lskbtc-tradingview.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
