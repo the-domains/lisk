@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-07T22:56:53.271Z'
+datePublished: '2016-06-07T22:56:56.791Z'
 sourcePath: _posts/2016-06-07-lsk-week-3-lskbtc-tradingview.md
 isBasedOnUrl: 'https://www.tradingview.com/chart/LSKBTC/9i4VZgCR-LSK-WEEK-3/'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - coinstreetnews
 related: []
 author: []
-dateModified: '2016-06-07T22:56:52.661Z'
+dateModified: '2016-06-07T22:56:56.444Z'
 title: ''
 app_links: []
 publisher:
@@ -25,7 +25,7 @@ publisher:
   domain: www.tradingview.com
 description: ''
 inLanguage: en
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
