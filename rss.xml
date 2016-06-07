@@ -4,7 +4,7 @@
         <description><![CDATA[Forge On]]></description>
         <link>https://thegrid.ai/lisktrader/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 06:53:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 08:32:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lisktrader/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Transmission 55 - Max Kordek , Lisk]]></title>
@@ -42,8 +42,15 @@
             <pubDate>Sun, 05 Jun 2016 17:10:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[LSK: WEEK 3 - LSKBTC TradingView]]></title>
+            <description><![CDATA[<article><h1>LSK: WEEK 3 - LSKBTC TradingView</h1><p>Quote Coin Street News: "The current set up on the 1H is very similar to both a bull and bear set up.... At times LSK seems to be tracking with BTC , so perhaps that is worth watching if you are trading LSK. Price becomes technically bullish once it is above the white down trend line."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/23aff0ae20e0da01d2881574759eb8749da9d407.png"></article>]]></description>
+            <link>https://www.tradingview.com/chart/LSKBTC/9i4VZgCR-LSK-WEEK-3/</link>
+            <guid isPermaLink="false">0184ec7a-967c-4ff9-a8b7-ec5eecdf63c5</guid>
+            <pubDate>Tue, 07 Jun 2016 08:32:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Azure Blockchain as a Service Update #6]]></title>
-            <description><![CDATA[<article><h1>Azure Blockchain as a Service Update #6</h1><p>Yet another busy week in the evolving ecosystem of blockchain technologies. New partners include Augur, Lisk, BitShares, Syscoin and Slock.it.</p><img src="https://acom.azurecomcdn.net/80C57D/cdn/mediahandler/acomblog/media/Default/blog/iStock_000020559159_102215.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Azure Blockchain as a Service Update #6</h1><p>Yet another busy week in the evolving ecosystem of blockchain technologies. New partners include Augur, Lisk, BitShares, Syscoin and Slock.it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8f9a8e4caefcc16feb61ddd85b4b495fe90413a.jpg"></article>]]></description>
             <link>https://azure.microsoft.com/en-us/blog/azure-blockchain-update-6/</link>
             <guid isPermaLink="false">d0ddebd6-ff8d-42f1-8c27-8fcf5db4ce46</guid>
             <pubDate>Mon, 06 Jun 2016 04:22:13 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.reddit.com/r/Lisk/comments/4mo97p/lisk_has_been_added_to_changercom/</link>
             <guid isPermaLink="false">bcbc4e0b-c2f0-4312-81f6-ce795dcd0a9d</guid>
             <pubDate>Sun, 05 Jun 2016 21:01:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lisk Price Chart (LSK/USD) | CoinGecko]]></title>
-            <description><![CDATA[<article><h1>Lisk Price Chart (LSK/USD) | CoinGecko</h1><p>Lisk cryptocurrency historical LSK/USD price chart</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c63ea60cea46316bbb8dd52f0ef0585da002a29a.png"></article>]]></description>
-            <link>https://www.coingecko.com/en/price_charts/lisk/usd</link>
-            <guid isPermaLink="false">5d22f677-c937-43c6-8f45-1985cc86ffeb</guid>
-            <pubDate>Sun, 05 Jun 2016 18:57:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
