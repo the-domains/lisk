@@ -32,11 +32,11 @@ app_links: []
 isBasedOnUrl: >-
   http://www.bloomberg.com/news/articles/2016-06-06/winklevoss-twins-gemini-exchange-starts-international-expansion
 title: Winklevoss Twins' Gemini Exchange Starts International Expansion
-datePublished: '2016-06-08T00:24:01.999Z'
-dateModified: '2016-06-08T00:24:01.385Z'
+datePublished: '2016-06-08T00:23:09.200Z'
+dateModified: '2016-06-08T00:23:04.315Z'
+starred: false
 sourcePath: >-
   _posts/2016-06-08-winklevoss-twins-gemini-exchange-starts-international-expan.md
-starred: true
 inFeed: true
 hasPage: false
 inNav: false
