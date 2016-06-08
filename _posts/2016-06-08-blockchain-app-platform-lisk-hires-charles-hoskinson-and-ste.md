@@ -31,11 +31,11 @@ isBasedOnUrl: >-
 title: >-
   Blockchain app platform Lisk hires Charles Hoskinson and Steven Nerayoff as
   senior advisors - EconoTimes
-datePublished: '2016-06-08T19:37:52.064Z'
-dateModified: '2016-06-08T19:37:36.043Z'
-starred: false
+datePublished: '2016-06-08T19:38:56.640Z'
+dateModified: '2016-06-08T19:38:56.301Z'
 sourcePath: >-
   _posts/2016-06-08-blockchain-app-platform-lisk-hires-charles-hoskinson-and-ste.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
