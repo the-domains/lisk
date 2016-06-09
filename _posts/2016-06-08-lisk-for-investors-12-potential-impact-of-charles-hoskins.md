@@ -20,10 +20,10 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=MMupNa-587M'
 title: >-
   Lisk For Investors #12 - Potential Impact Of Charles Hoskinson On Lisk - By
   Tai Zen & Leon Fu
-datePublished: '2016-06-08T23:17:53.095Z'
-dateModified: '2016-06-08T23:17:48.229Z'
-starred: false
+datePublished: '2016-06-09T04:31:43.702Z'
+dateModified: '2016-06-09T04:31:43.412Z'
 sourcePath: _posts/2016-06-08-lisk-for-investors-12-potential-impact-of-charles-hoskins.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
