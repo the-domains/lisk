@@ -4,8 +4,15 @@
         <description><![CDATA[Forge On]]></description>
         <link>https://thegrid.ai/lisktrader/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 18:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 18:18:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lisktrader/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Counterparty Integrates Ethereum Smart Contract System in Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Counterparty Integrates Ethereum Smart Contract System in Bitcoin</h1><p>Counterparty, the technology for decentralized financial tools on the Bitcoin blockchain, has started running Ethereum smart contracts by porting the Ethereum Virtual Machine (EVM) to its codebase. In late 2014, Counterparty added their support to execute the Ethereum smart contracts platform on Bitcoin; however, at that time, Ethereum was in its pre-alpha stage of development, with its first major release, Frontier, not yet being announced.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6fd26b5b736a5c049094781379c0b68f0919ebe7.png"></article>]]></description>
+            <link>http://www.altcointoday.com/counterparty-integrates-ethereum-smart-contract-system-in-bitcoin/</link>
+            <guid isPermaLink="false">40043ddd-a0a4-4709-bce9-64cf556772a7</guid>
+            <pubDate>Thu, 09 Jun 2016 18:18:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lisk For Investors #12 - Potential Impact Of Charles Hoskinson On Lisk - By Tai Zen & Leon Fu]]></title>
             <description><![CDATA[<article><h1>Lisk For Investors #12 - Potential Impact Of Charles Hoskinson On Lisk - By Tai Zen & Leon Fu</h1><p>In this hangout, Tai Zen & Leon Fu will interview Charles Hoskinson about his new role at Lisk.io. In the hangout we will discuss Charles': -- software and crypto background. -- role at Bitshares. -- role as cofounder of Ethereum -- current project at ihok.io -- current involvement with Lisk.io -- etc.</p></article>]]></description>
@@ -54,13 +61,6 @@
             <link>http://www.global-blockchain-summit.com/beijing/en/</link>
             <guid isPermaLink="false">dc2f4534-6d9d-4a50-8840-b6ecbe238491</guid>
             <pubDate>Sun, 05 Jun 2016 17:10:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Counterparty Integrates Ethereum Smart Contract System in Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Counterparty Integrates Ethereum Smart Contract System in Bitcoin</h1><p>Counterparty, the technology for decentralized financial tools on the Bitcoin blockchain, has started running Ethereum smart contracts by porting the Ethereum Virtual Machine (EVM) to its codebase. In late 2014, Counterparty added their support to execute the Ethereum smart contracts platform on Bitcoin; however, at that time, Ethereum was in its pre-alpha stage of development, with its first major release, Frontier, not yet being announced.</p><img src="http://www.altcointoday.com/wp-content/uploads/2016/06/Bitcoin-smart-contract.png"></article>]]></description>
-            <link>http://www.altcointoday.com/counterparty-integrates-ethereum-smart-contract-system-in-bitcoin/</link>
-            <guid isPermaLink="false">40043ddd-a0a4-4709-bce9-64cf556772a7</guid>
-            <pubDate>Thu, 09 Jun 2016 18:11:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Winklevoss Twins' Gemini Exchange Starts International Expansion]]></title>
