@@ -29,11 +29,11 @@ app_links: []
 isBasedOnUrl: >-
   http://www.altcointoday.com/counterparty-integrates-ethereum-smart-contract-system-in-bitcoin/
 title: Counterparty Integrates Ethereum Smart Contract System in Bitcoin
-datePublished: '2016-06-09T18:18:06.601Z'
-dateModified: '2016-06-09T18:18:06.237Z'
+datePublished: '2016-06-10T04:24:12.766Z'
+dateModified: '2016-06-10T04:24:12.527Z'
 sourcePath: >-
   _posts/2016-06-09-counterparty-integrates-ethereum-smart-contract-system-in-bi.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
