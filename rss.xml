@@ -4,15 +4,8 @@
         <description><![CDATA[Forge On]]></description>
         <link>https://thegrid.ai/lisktrader/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 04:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2016 04:24:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lisktrader/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Lisk]]></title>
-            <description><![CDATA[<article><h1>Lisk</h1><p>Lisk is a public blockchain platform that provides decentralized blockchain apps. It was forked from Crypti by Max Kordek and Olivier Beddows in early 2016. Lisk started as a fork of Crypti beginning with an ICO (Initial Coin Offering) to decide the initial distribution and raise development funds.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a28563ae60aef3171176c3dfe69d573cffb51766.jpg"></article>]]></description>
-            <link>https://en.wikipedia.org/wiki/Lisk</link>
-            <guid isPermaLink="false">fd04d466-627d-4cfe-a762-86387e5d3cfc</guid>
-            <pubDate>Thu, 09 Jun 2016 18:30:29 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Lisk For Investors #12 - Potential Impact Of Charles Hoskinson On Lisk - By Tai Zen & Leon Fu]]></title>
             <description><![CDATA[<article><h1>Lisk For Investors #12 - Potential Impact Of Charles Hoskinson On Lisk - By Tai Zen & Leon Fu</h1><p>In this hangout, Tai Zen & Leon Fu will interview Charles Hoskinson about his new role at Lisk.io. In the hangout we will discuss Charles': -- software and crypto background. -- role at Bitshares. -- role as cofounder of Ethereum -- current project at ihok.io -- current involvement with Lisk.io -- etc.</p></article>]]></description>
@@ -61,6 +54,13 @@
             <link>http://www.global-blockchain-summit.com/beijing/en/</link>
             <guid isPermaLink="false">dc2f4534-6d9d-4a50-8840-b6ecbe238491</guid>
             <pubDate>Sun, 05 Jun 2016 17:10:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lisk]]></title>
+            <description><![CDATA[<article><h1>Lisk</h1><p>Lisk is a public blockchain platform that provides decentralized blockchain apps. It was forked from Crypti by Max Kordek and Olivier Beddows in early 2016. Lisk started as a fork of Crypti beginning with an ICO (Initial Coin Offering) to decide the initial distribution and raise development funds.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a28563ae60aef3171176c3dfe69d573cffb51766.jpg"></article>]]></description>
+            <link>https://en.wikipedia.org/wiki/Lisk</link>
+            <guid isPermaLink="false">fd04d466-627d-4cfe-a762-86387e5d3cfc</guid>
+            <pubDate>Fri, 10 Jun 2016 04:24:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Counterparty Integrates Ethereum Smart Contract System in Bitcoin]]></title>
