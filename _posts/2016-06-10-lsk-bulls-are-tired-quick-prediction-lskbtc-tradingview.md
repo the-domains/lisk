@@ -16,10 +16,10 @@ app_links: []
 isBasedOnUrl: >-
   https://www.tradingview.com/chart/LSKBTC/k2nsm8Q4-LSK-BULLS-ARE-TIRED-QUICK-PREDICTION/
 title: 'LSK: BULLS ARE TIRED? QUICK PREDICTION - LSKBTC TradingView'
-datePublished: '2016-06-10T05:46:38.154Z'
-dateModified: '2016-06-10T05:46:29.935Z'
-starred: false
+datePublished: '2016-06-10T05:50:05.072Z'
+dateModified: '2016-06-10T05:50:04.580Z'
 sourcePath: _posts/2016-06-10-lsk-bulls-are-tired-quick-prediction-lskbtc-tradingview.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
