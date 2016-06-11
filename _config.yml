@@ -1,16 +1,16 @@
-typography_spectrum: 0.032232323894277215
+typography_spectrum: 0.20909460191614926
 color:
-  brandStrength: 0.15058917948044837
-  lightness: 0.12834296375513077
-  saturation: 0.041837717639282346
-  rhythmicContrast: 0.12818008079193532
+  brandStrength: 0.050309686455875635
+  lightness: 0.11488022585399449
+  saturation: 0.08684336836449802
+  rhythmicContrast: 0.7165781748481095
   brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
-layout_spectrum: 0.38408720795996487
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+layout_spectrum: 0.4951247840654105
 analytics:
   google: UA-78806853-1
 name: Lisk Trader
