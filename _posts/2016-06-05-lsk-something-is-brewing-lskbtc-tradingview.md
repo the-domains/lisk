@@ -1,24 +1,24 @@
 ---
-author: []
+datePublished: '2016-06-15T17:50:09.261Z'
+sourcePath: _posts/2016-06-05-lsk-something-is-brewing-lskbtc-tradingview.md
+isBasedOnUrl: 'https://www.tradingview.com/chart/LSKBTC/s9gnsLCe-LSK-Something-is-Brewing/'
+keywords: []
 related: []
+author: []
+dateModified: '2016-06-15T17:50:08.800Z'
+title: 'LSK: Something is Brewing'
+app_links: []
 publisher:
   url: 'https://www.tradingview.com'
   name: TradingView
   favicon: 'https://www.tradingview.com/static/images/favicon.ico'
   domain: www.tradingview.com
-keywords: []
 description: >-
   Is Lisk drawing a cup & handle pattern? I am expecting LSK to break the 82k
   barrier soon. Waiting for resistance to become support before re-entering.
   Holding previous long positions from 60-70K. What do you think?
 inLanguage: eu
-app_links: []
-isBasedOnUrl: 'https://www.tradingview.com/chart/LSKBTC/s9gnsLCe-LSK-Something-is-Brewing/'
-title: 'LSK: Something is Brewing - LSKBTC TradingView'
-datePublished: '2016-06-05T17:13:55.052Z'
-dateModified: '2016-06-05T17:13:54.763Z'
-sourcePath: _posts/2016-06-05-lsk-something-is-brewing-lskbtc-tradingview.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -26,4 +26,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>LSK: Something is Brewing - LSKBTC TradingView</h1><p>Is Lisk drawing a cup &amp; handle pattern? I am expecting LSK to break the 82k barrier soon. Waiting for resistance to become support before re-entering. Holding previous long positions from 60-70K. What do you think?</p><img src="https://s3.amazonaws.com/tradingview/s/s9gnsLCe_171_121.png" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40a55c541a4a84d01617b944db1229954957bcc4.png" /><h1>LSK: Something is Brewing</h1><p>Is Lisk drawing a cup &amp; handle pattern? I am expecting LSK to break the 82k barrier soon. Waiting for resistance to become support before re-entering. Holding previous long positions from 60-70K. What do you think?</p></article>
