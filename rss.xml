@@ -4,15 +4,8 @@
         <description><![CDATA[Forge On]]></description>
         <link>https://thegrid.ai/lisktrader/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 17:46:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 17:46:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lisktrader/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Lisk CEO Max Kordek Talks About Perspectives Of Lisk Platform - CoinSpeaker]]></title>
-            <description><![CDATA[<article><h1>Lisk CEO Max Kordek Talks About Perspectives Of Lisk Platform - CoinSpeaker</h1><p>Lisk, an open source platform written in JavaScript, was launched by two former Crypti team members Max Kordek and Oliver Beddows earlier this year. It focuses on development of blockchain-based applications using JavaScript and the publicly available Lisk SDK. Kordek and Beddows position their startup as an alternative to the Ethereum platform.</p></article>]]></description>
-            <link>http://www.coinspeaker.com/2016/06/15/lisk-ceo-max-kordek-talks-perspectives-lisk-platform/</link>
-            <guid isPermaLink="false">b184e5ce-5833-4a4f-a48c-bd73e538e3fc</guid>
-            <pubDate>Wed, 15 Jun 2016 17:46:22 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[New Advisors Could Push Lisk Beyond Ethereum]]></title>
             <description><![CDATA[<article><h1>New Advisors Could Push Lisk Beyond Ethereum</h1><p>Lisk is now the 7th coin on CoinMarketCap after its launch on May 24th. Two prominent advisors have been added to the team to help Lisk become the go-to platform for Blockchain applications and provider of decentralized services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/501f497b995f55d45cecc68a98dfcfd6ddaa4dc4.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://www.global-blockchain-summit.com/beijing/en/</link>
             <guid isPermaLink="false">dc2f4534-6d9d-4a50-8840-b6ecbe238491</guid>
             <pubDate>Sun, 05 Jun 2016 17:10:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lisk CEO Max Kordek Talks About Perspectives Of Lisk Platform - CoinSpeaker]]></title>
+            <description><![CDATA[<article><h1>Lisk CEO Max Kordek Talks About Perspectives Of Lisk Platform - CoinSpeaker</h1><p>Lisk, an open source platform written in JavaScript, was launched by two former Crypti team members Max Kordek and Oliver Beddows earlier this year. It focuses on development of blockchain-based applications using JavaScript and the publicly available Lisk SDK. Kordek and Beddows position their startup as an alternative to the Ethereum platform.</p></article>]]></description>
+            <link>http://www.coinspeaker.com/2016/06/15/lisk-ceo-max-kordek-talks-perspectives-lisk-platform/</link>
+            <guid isPermaLink="false">b184e5ce-5833-4a4f-a48c-bd73e538e3fc</guid>
+            <pubDate>Wed, 15 Jun 2016 17:46:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
