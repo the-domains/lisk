@@ -4,7 +4,7 @@
         <description><![CDATA[Forge On]]></description>
         <link>https://thegrid.ai/lisktrader/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 15:57:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 17:45:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lisktrader/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[New Advisors Could Push Lisk Beyond Ethereum]]></title>
@@ -70,11 +70,11 @@
             <pubDate>Sun, 05 Jun 2016 17:10:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lisk Community Meeting Summary - June 11th - Lisk Blog]]></title>
-            <description><![CDATA[<article><h1>Lisk Community Meeting Summary - June 11th - Lisk Blog</h1><p>1. Fee structure/adaptations If the current exchange price stays the same for June we will definitely adjust the fees. I think nearly all fees need a slight adjustment to become cheaper. Especially, the second passphrase. I don't have final numbers at this moment, feel free to say what you think is fair.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/719de97e741f364c96d7d7652f84a33107ac5723.jpg"></article>]]></description>
-            <link>https://blog.lisk.io/lisk-community-meeting-summary-june-11th-50dcadd41fef#.e3230733e</link>
-            <guid isPermaLink="false">0104c02a-5f52-4e49-8686-bb9c95880588</guid>
-            <pubDate>Sat, 11 Jun 2016 16:24:39 GMT</pubDate>
+            <title><![CDATA[New Sidechain Technology for the Internet of Things | @ThingsExpo #IoT #Blockchain | news.sys-con.com]]></title>
+            <description><![CDATA[<article><h1>New Sidechain Technology for the Internet of Things | @ThingsExpo #IoT #Blockchain | news.sys-con.com</h1><p>Kordek: Lisk provides a scalable platform for the biggest developer audience in the world; JavaScript coders. At this moment, it's rocket science to develop a decentralized, peer-to-peer application. With Lisk, the App SDK, and blockchain technology, this becomes very easy. Practically every JavaScript developer can now work on decentralized technologies with a very low learning curve.</p><img src="http://res.cdn.sys-con.com/story/may16/3834832/security_226.png"></article>]]></description>
+            <link>http://news.sys-con.com/node/3834832</link>
+            <guid isPermaLink="false">ed47b00a-61b9-4b3e-bb10-4746ff8244f8</guid>
+            <pubDate>Wed, 15 Jun 2016 17:45:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
