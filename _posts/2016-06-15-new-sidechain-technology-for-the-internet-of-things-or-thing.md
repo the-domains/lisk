@@ -30,11 +30,11 @@ isBasedOnUrl: 'http://news.sys-con.com/node/3834832'
 title: >-
   New Sidechain Technology for the Internet of Things | @ThingsExpo #IoT
   #Blockchain | news.sys-con.com
-datePublished: '2016-06-15T17:45:04.673Z'
-dateModified: '2016-06-15T17:44:44.027Z'
-starred: false
+datePublished: '2016-06-15T17:46:23.851Z'
+dateModified: '2016-06-15T17:46:23.578Z'
 sourcePath: >-
   _posts/2016-06-15-new-sidechain-technology-for-the-internet-of-things-or-thing.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
