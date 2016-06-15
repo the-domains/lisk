@@ -4,8 +4,15 @@
         <description><![CDATA[Forge On]]></description>
         <link>https://thegrid.ai/lisktrader/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 16:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 15:57:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lisktrader/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Advisors Could Push Lisk Beyond Ethereum]]></title>
+            <description><![CDATA[<article><h1>New Advisors Could Push Lisk Beyond Ethereum</h1><p>Lisk is now the 7th coin on CoinMarketCap after its launch on May 24th. Two prominent advisors have been added to the team to help Lisk become the go-to platform for Blockchain applications and provider of decentralized services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/501f497b995f55d45cecc68a98dfcfd6ddaa4dc4.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/new-advisors-could-push-lisk-beyond-ethereum</link>
+            <guid isPermaLink="false">4fdfb60d-742e-4f66-b933-ecff5d3a06f7</guid>
+            <pubDate>Wed, 15 Jun 2016 15:57:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[LSK: BULLS ARE TIRED? QUICK PREDICTION - LSKBTC TradingView]]></title>
             <description><![CDATA[<article><h1>LSK: BULLS ARE TIRED? QUICK PREDICTION - LSKBTC TradingView</h1><p>One more dip to the mid-low 70k area before price bounces off the bottom edge of the pitchfork trend channel. Reversal to the upside after 22 hours if the bottom of the trend channel holds and is n...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/63645e09a814a16d2162bdb3ee1879ab4102e501.png"></article>]]></description>
@@ -63,11 +70,11 @@
             <pubDate>Sun, 05 Jun 2016 17:10:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Counterparty Integrates Ethereum Smart Contract System in Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Counterparty Integrates Ethereum Smart Contract System in Bitcoin</h1><p>Counterparty, the technology for decentralized financial tools on the Bitcoin blockchain, has started running Ethereum smart contracts by porting the Ethereum Virtual Machine (EVM) to its codebase. In late 2014, Counterparty added their support to execute the Ethereum smart contracts platform on Bitcoin; however, at that time, Ethereum was in its pre-alpha stage of development, with its first major release, Frontier, not yet being announced.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6fd26b5b736a5c049094781379c0b68f0919ebe7.png"></article>]]></description>
-            <link>http://www.altcointoday.com/counterparty-integrates-ethereum-smart-contract-system-in-bitcoin/</link>
-            <guid isPermaLink="false">40043ddd-a0a4-4709-bce9-64cf556772a7</guid>
-            <pubDate>Fri, 10 Jun 2016 04:24:12 GMT</pubDate>
+            <title><![CDATA[Lisk Community Meeting Summary - June 11th - Lisk Blog]]></title>
+            <description><![CDATA[<article><h1>Lisk Community Meeting Summary - June 11th - Lisk Blog</h1><p>1. Fee structure/adaptations If the current exchange price stays the same for June we will definitely adjust the fees. I think nearly all fees need a slight adjustment to become cheaper. Especially, the second passphrase. I don't have final numbers at this moment, feel free to say what you think is fair.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/719de97e741f364c96d7d7652f84a33107ac5723.jpg"></article>]]></description>
+            <link>https://blog.lisk.io/lisk-community-meeting-summary-june-11th-50dcadd41fef#.e3230733e</link>
+            <guid isPermaLink="false">0104c02a-5f52-4e49-8686-bb9c95880588</guid>
+            <pubDate>Sat, 11 Jun 2016 16:24:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
