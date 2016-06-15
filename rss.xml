@@ -4,15 +4,8 @@
         <description><![CDATA[Forge On]]></description>
         <link>https://thegrid.ai/lisktrader/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 17:46:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 17:46:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lisktrader/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[New Sidechain Technology for the Internet of Things | @ThingsExpo #IoT #Blockchain | news.sys-con.com]]></title>
-            <description><![CDATA[<article><h1>New Sidechain Technology for the Internet of Things | @ThingsExpo #IoT #Blockchain | news.sys-con.com</h1><p>Kordek: Lisk provides a scalable platform for the biggest developer audience in the world; JavaScript coders. At this moment, it's rocket science to develop a decentralized, peer-to-peer application. With Lisk, the App SDK, and blockchain technology, this becomes very easy. Practically every JavaScript developer can now work on decentralized technologies with a very low learning curve.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/794d9fd35d05b0e77267570c6b5ee158/noop.png?input=http%3A%2F%2Fres.cdn.sys-con.com%2Fstory%2Fmay16%2F3834832%2Fsecurity_226.png"></article>]]></description>
-            <link>http://news.sys-con.com/node/3834832</link>
-            <guid isPermaLink="false">ed47b00a-61b9-4b3e-bb10-4746ff8244f8</guid>
-            <pubDate>Wed, 15 Jun 2016 17:46:23 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Lisk CEO Max Kordek Talks About Perspectives Of Lisk Platform - CoinSpeaker]]></title>
             <description><![CDATA[<article><h1>Lisk CEO Max Kordek Talks About Perspectives Of Lisk Platform - CoinSpeaker</h1><p>Lisk, an open source platform written in JavaScript, was launched by two former Crypti team members Max Kordek and Oliver Beddows earlier this year. It focuses on development of blockchain-based applications using JavaScript and the publicly available Lisk SDK. Kordek and Beddows position their startup as an alternative to the Ethereum platform.</p></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://www.tradingview.com/chart/LSKBTC/s9gnsLCe-LSK-Something-is-Brewing/</link>
             <guid isPermaLink="false">c63798d5-d6d8-4a22-a06e-50e9e73d05b9</guid>
             <pubDate>Sun, 05 Jun 2016 17:13:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2016 Global Blockchain Summit]]></title>
+            <description><![CDATA[<article><h1>2016 Global Blockchain Summit</h1><p>3rd,Global,Blockchain,Aviation,Summit,Beijing,China,Technological,FinTech,Technological ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec78c2c2278e27d38de4e841eca5896c8662f1c0.jpg"></article>]]></description>
+            <link>http://www.global-blockchain-summit.com/beijing/en/</link>
+            <guid isPermaLink="false">dc2f4534-6d9d-4a50-8840-b6ecbe238491</guid>
+            <pubDate>Sun, 05 Jun 2016 17:10:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
