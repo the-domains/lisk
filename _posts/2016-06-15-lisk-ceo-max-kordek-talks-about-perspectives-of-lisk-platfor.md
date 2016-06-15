@@ -31,11 +31,11 @@ app_links: []
 isBasedOnUrl: >-
   http://www.coinspeaker.com/2016/06/15/lisk-ceo-max-kordek-talks-perspectives-lisk-platform/
 title: Lisk CEO Max Kordek Talks About Perspectives Of Lisk Platform - CoinSpeaker
-datePublished: '2016-06-15T17:46:09.274Z'
-dateModified: '2016-06-15T17:45:36.054Z'
-starred: false
+datePublished: '2016-06-15T17:46:22.179Z'
+dateModified: '2016-06-15T17:46:21.778Z'
 sourcePath: >-
   _posts/2016-06-15-lisk-ceo-max-kordek-talks-about-perspectives-of-lisk-platfor.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
