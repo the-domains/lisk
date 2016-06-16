@@ -15,10 +15,10 @@ inLanguage: eu
 app_links: []
 isBasedOnUrl: 'https://www.tradingview.com/chart/LSKBTC/yLOYxl5n-LSK-BTC-SEESAW/'
 title: LSK/BTC SEESAW - LSKBTC TradingView
-datePublished: '2016-06-16T06:19:45.294Z'
-dateModified: '2016-06-16T06:19:32.762Z'
-starred: false
+datePublished: '2016-06-16T06:20:44.067Z'
+dateModified: '2016-06-16T06:20:43.801Z'
 sourcePath: _posts/2016-06-16-lskbtc-seesaw-lskbtc-tradingview.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
